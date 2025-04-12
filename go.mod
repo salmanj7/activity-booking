@@ -1,4 +1,4 @@
-module github.com/salmanj7/activity-booking.git
+module github.com/salmanj7/activity-booking
 
 go 1.24.2
 
